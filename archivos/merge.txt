@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Juan Pablo Pineda Lopera. edad: 26 años. Aspiraciones con la materia: Desarrollar habilidad del paradigma de POO y fortalecer mis conocimientos tanto en Python como en Java. POO es una asignatura que quería ver hace varios semestres y como aspiración principal es pasarla la materia con nota alta :v y aprender lo que mas pueda.
+=======
+Se pudo hacer el commit porque al agregar el archivo txt ya había un cambio en el repositorio y GitHub ya permite.
+>>>>>>> 5b549650eb0472dd4f5cd163ae2c74fd2dcc4062
