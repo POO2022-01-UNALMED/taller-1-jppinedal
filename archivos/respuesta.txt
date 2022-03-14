@@ -1,0 +1,1 @@
+No fue posible hacer commit ya que no se había hecho ningun cambio en el repositorio. Como se explicó en la clase, no es posible con solo una carpeta, solo si hace alguna modificación.
