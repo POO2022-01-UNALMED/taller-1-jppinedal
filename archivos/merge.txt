@@ -1,1 +1,0 @@
-Se pudo hacer el commit porque al agregar el archivo txt ya había un cambio en el repositorio y GitHub ya permite.
