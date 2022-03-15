@@ -2,4 +2,4 @@ Ingrese a continuación su primer apellido: Pineda
 
 Ingrese a continuación su segundo apellido: Lopera
 
-En esta ocasión no hubo conflictos ya que no se estaba modificando el mismo bloque de texto, solo se presenta en caso que se deba elegir entre uno u otro bloque de texto.
+En esta ocasión no hubo conflictos ya que no se estaba modificando el mismo bloque de texto, solo se presenta en caso que se deba elegir entre uno u otro bloque-
