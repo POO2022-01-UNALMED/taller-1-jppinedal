@@ -1,2 +1,5 @@
 “ingrese a continuación algún
+<<<<<<< HEAD
 hobby de su interés:”. Conducir moto
+=======
+
